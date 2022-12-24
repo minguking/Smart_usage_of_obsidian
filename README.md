@@ -3,7 +3,7 @@
 ---
 ### Before start, 
 
-1. you have to download `Obsidian Git` for your Mac Obsidian app from Community plugins. For more info -> [link](https://github.com/denolehov/obsidian-git)
+1. you have to download `Obsidian Git` for your Mac Obsidian app from Community plugins. [For more info](https://github.com/denolehov/obsidian-git)
    - Create a git `repository` to upload your local Obsidian works.
    - Now, your local Obsidian works will automatically commit and push as you set.
 2. you have to download Obsidian iOS app for your apple device and if you've never used this app, please follow below
