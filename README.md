@@ -20,16 +20,17 @@ Your Obsidian is now syncing with Git. __But you want to sync it with your iPhon
 Now, what we're going to do is to clone `Obsidian repository` that you've created. <br>
 We're not just cloning into your local Mac directory but into your iCloud -> Obsidian folder
 
-Using terminal, going into iCloud folder -> Obsidian isn't pretty easy. <br>
-So, to make it easier, open terminal and do the comment below.
+Using terminal, direct to iCloud folder -> Obsidian isn't pretty easy. <br>
+So, to make it easier, open terminal and type in terminal command below:
 
 ````bash
 $ cd ~
 $ ln -s Library/Mobile\ Documents/iCloud~md~obsidian/Documents/ Obsidian
 $ cd Obsidian
 ````
+This command creates the links for the files/folders
 
-now, we can go into iCloud -> Obsidian folder very easily by just typing `cd Obsidian` only. <br> <br> 
+now, we can direct to iCloud -> Obsidian folder very easily by just typing `cd Obsidian` only. <br> <br> 
 You can now git clone into the obsidian folder and enjoy git - iCloud synchronous environment. <br> 
 Once cloning is completed, open your iOS Obsidian app, find cloned folder/files and check beautifully synced between devices. <br> <br>
 
