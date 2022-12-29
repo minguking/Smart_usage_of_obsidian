@@ -35,11 +35,13 @@ You can now git clone into the obsidian folder and enjoy git - iCloud synchronou
 Once cloning is completed, open your iOS Obsidian app, find cloned folder/files and check beautifully synced between devices. <br> <br>
 
 
-### Improvement
+### More
 
 If you set your Obsidian Git plugin `Pull updates on startup` turned on, your iPhone will show you an error that is failed to pull/push once you open the app. That's because you didn't login to your Git on your iOS Obsidian app. <br>
-The toast message is kinda nerve-wracking, but haven't found a solution yet <br>
-Please leave a comment to share your idea if you find any better
+
+Inside of your Obsidian app -> Settings -> Obsidian Git -> Authentication/Commit Author
+enter your username on GitHub, type in your password.
+Restart your Obsidian, it will work perfectly.
 
 
 
