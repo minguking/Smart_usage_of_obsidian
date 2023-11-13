@@ -1,4 +1,4 @@
-# Smart usage of Obsidian (iPhone, Mac, Git, & as teams)
+# Smart usage of Obsidian (iPhone, Mac, Git, & as a team)
 ### Use Obsidian asynchronously in Mac, iPhone using GIt, iCloud. Smart solution
 ---
 ### Before start, 
